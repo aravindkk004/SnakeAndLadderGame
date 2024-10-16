@@ -13,17 +13,6 @@ The game includes special elements like snakes that hinder progress and ladders 
 - **Console Interface:** Easy-to-use text-based interface for player interaction.
 - **Win Condition:** The first player to reach square 100 wins the game.
 
-## Installation
-
-### Prerequisites
-- Java Development Kit (JDK) installed on your system (Java 8 or higher recommended).
-
-### Cloning the Repository
-Clone the repository to your local machine using the following command:
-```bash
-git clone https://github.com/aravindkk004/SnakeAndLadderGame.git
-
-
 ## File Descriptions
 
 ### Main.java
@@ -52,3 +41,14 @@ The `Players` class represents individual players in the game. This file handles
 - **Turn Management**: It manages the logic related to player turns, ensuring the game flow remains consistent.
 
 Together, these files create a complete implementation of the Snake and Ladder Game, allowing players to enjoy this classic challenge through a console interface.
+
+
+### Prerequisites
+- Java Development Kit (JDK) installed on your system (Java 8 or higher recommended).
+
+### Cloning the Repository
+Clone the repository to your local machine using the following command:
+```bash
+git clone https://github.com/aravindkk004/SnakeAndLadderGame.git
+
+
